@@ -15,10 +15,11 @@ return [
     'supportEmail' => 'support@hiqdev.com',
     'adminEmail'   => 'support@hiqdev.com',
 
-    'facebook_link'     => 'https://facebook.com/hiqdev',
     'twitter_link'      => 'https://twitter.com/hiqdev',
+    'facebook_link'     => 'https://facebook.com/hiqdev',
+    'vk_link'           => 'https://vk.com/hiqdev',
     'youtube_link'      => 'https://youtube.com/user/hiqdev',
-    'vkontakte_link'    => 'https://vk.com/hiqdev',
     'instagram_link'    => 'https://instagram.com/hiqdev',
     'pinterest_link'    => 'https://pinterest.com/hiqdev',
+    'github_link'       => 'https://github.com/hiqdev',
 ];
