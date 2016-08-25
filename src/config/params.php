@@ -10,10 +10,10 @@
  */
 
 return [
-    'orgName'      => 'HiQDev',
-    'orgUrl'       => 'https://hiqdev.com/',
-    'supportEmail' => 'support@hiqdev.com',
-    'adminEmail'   => 'support@hiqdev.com',
+    'organizationName'  => 'HiQDev',
+    'organizationUrl'   => 'https://hiqdev.com/',
+    'supportEmail'      => 'support@hiqdev.com',
+    'adminEmail'        => 'support@hiqdev.com',
 
     'twitter_link'      => 'https://twitter.com/hiqdev',
     'facebook_link'     => 'https://facebook.com/hiqdev',
