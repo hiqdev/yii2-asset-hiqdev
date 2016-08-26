@@ -11,7 +11,7 @@
 
 return [
     'organizationName'  => 'HiQDev',
-    'organizationUrl'   => 'https://hiqdev.com/',
+    'organizationUrl'   => 'http://hiqdev.com/',
     'supportEmail'      => 'support@hiqdev.com',
     'adminEmail'        => 'support@hiqdev.com',
 
