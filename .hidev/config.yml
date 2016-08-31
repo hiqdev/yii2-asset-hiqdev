@@ -6,7 +6,7 @@ package:
     keywords:       hiqdev, asset, extension, yii2
     namespace:      hiqdev\assets\hiqdev
     description:    |
-        [HiQDev](https://hiqdev.com) is a domain registrator.
+        [HiQDev](https://hiqdev.com) is software development and computer consulting company.
 
         This package provides assets shareable between different HiQDev projects:
 

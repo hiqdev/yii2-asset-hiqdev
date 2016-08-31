@@ -9,7 +9,7 @@ HiQDev assets
 [![Scrutinizer Code Coverage](https://img.shields.io/scrutinizer/coverage/g/hiqdev/yii2-asset-hiqdev.svg)](https://scrutinizer-ci.com/g/hiqdev/yii2-asset-hiqdev/)
 [![Scrutinizer Code Quality](https://img.shields.io/scrutinizer/g/hiqdev/yii2-asset-hiqdev.svg)](https://scrutinizer-ci.com/g/hiqdev/yii2-asset-hiqdev/)
 
-[HiQDev](https://hiqdev.com) is a domain registrator.
+[HiQDev](https://hiqdev.com) is software development and computer consulting company.
 
 This package provides assets shareable between different HiQDev projects:
 
