@@ -54,8 +54,13 @@
     },
     "extra": {
         "config-plugin": {
-            "params": "src/config/params.php",
-            "hisite": "src/config/hisite.php"
+            "params": "src/config/params.php"
         }
-    }
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://asset-packagist.org"
+        }
+    ]
 }
