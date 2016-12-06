@@ -1,6 +1,10 @@
 ahnames/yii2-asset-ahnames
 --------------------------
 
+## [0.1.2] - 2016-12-06
+
+- Removed `hisite.php` config, only `params.php` left
+
 ## [0.1.1] - 2016-08-31
 
 - Fixed minor issues

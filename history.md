@@ -1,6 +1,12 @@
 ahnames/yii2-asset-ahnames
 --------------------------
 
+## [0.1.2] - 2016-12-06
+
+- Removed `hisite.php` config, only `params.php` left
+    - [ee50529] 2016-12-06 csfixed [sol@hiqdev.com]
+    - [7238fab] 2016-09-01 removed hisite config [sol@hiqdev.com]
+
 ## [0.1.1] - 2016-08-31
 
 - Fixed minor issues
@@ -86,3 +92,5 @@ ahnames/yii2-asset-ahnames
 [4df0206]: https://github.com/ahnames/yii2-asset-ahnames/commit/4df0206
 [e02695e]: https://github.com/ahnames/yii2-asset-ahnames/commit/e02695e
 [ac13220]: https://github.com/ahnames/yii2-asset-ahnames/commit/ac13220
+[ee50529]: https://github.com/ahnames/yii2-asset-ahnames/commit/ee50529
+[7238fab]: https://github.com/ahnames/yii2-asset-ahnames/commit/7238fab
