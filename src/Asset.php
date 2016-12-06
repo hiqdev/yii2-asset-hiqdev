@@ -1,6 +1,5 @@
 <?php
-
-/*
+/**
  * HiQDev asset files: images, configs and more
  *
  * @link      https://github.com/hiqdev/yii2-asset-hiqdev
