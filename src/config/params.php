@@ -7,14 +7,16 @@
  * @license   BSD-3-Clause
  * @copyright Copyright (c) 2016, HiQDev (http://hiqdev.com/)
  */
-
+$supportEmail = 'support@hiqdev.com';
 return [
     'organizationName'  => 'HiQDev',
     'organizationUrl'   => 'http://hiqdev.com/',
-    'supportEmail'      => 'support@hiqdev.com',
+    'supportEmail'      => $supportEmail,
     'adminEmail'        => 'support@hiqdev.com',
 
-    'twitter_link'      => 'https://twitter.com/hiqdev',
-    'facebook_link'     => 'https://facebook.com/hiqdev',
-    'github_link'       => 'https://github.com/hiqdev',
+    'socialLinks'       => [
+        'email'     => 'mailto:' . $supportEmail,
+        'twitter'   => 'https://twitter.com/hipanel',
+        'facebook'  => 'https://www.facebook.com/groups/230254030432488/',
+    ],
 ];
