@@ -11,7 +11,7 @@
 $supportEmail = 'support@hiqdev.com';
 
 return [
-    'favicon.ico'       => '@hiqdev/assets/hiqdev/assets/favicon.ico',
+    'favicon.ico'       => '@hiqdev/assets/hiqdev/assets/images/favicon.ico',
 
     'organizationName'  => 'HiQDev',
     'organizationUrl'   => 'http://hiqdev.com/',
