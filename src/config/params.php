@@ -7,8 +7,12 @@
  * @license   BSD-3-Clause
  * @copyright Copyright (c) 2016, HiQDev (http://hiqdev.com/)
  */
+
 $supportEmail = 'support@hiqdev.com';
+
 return [
+    'favicon.ico'       => '@hiqdev/assets/hiqdev/assets/favicon.ico',
+
     'organizationName'  => 'HiQDev',
     'organizationUrl'   => 'http://hiqdev.com/',
     'supportEmail'      => $supportEmail,
