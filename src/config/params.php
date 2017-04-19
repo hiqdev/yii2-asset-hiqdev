@@ -13,12 +13,15 @@ $supportEmail = 'support@hiqdev.com';
 return [
     'favicon.ico'       => '@hiqdev/assets/hiqdev/assets/images/favicon.ico',
 
-    'organizationName'  => 'HiQDev',
-    'organizationUrl'   => 'http://hiqdev.com/',
-    'supportEmail'      => $supportEmail,
-    'adminEmail'        => 'support@hiqdev.com',
+    'organization.name' => 'HiQDev',
+    'organization.url'  => 'http://hiqdev.com/',
 
-    'socialLinks'       => [
+    'copyright.year'    => 2015,
+
+    'supportEmail'      => $supportEmail,
+    'adminEmail'        => $supportEmail,
+
+    'socialLinks.links' => [
         'email'     => 'mailto:' . $supportEmail,
         'twitter'   => 'https://twitter.com/hipanel',
         'facebook'  => 'https://www.facebook.com/groups/230254030432488/',
