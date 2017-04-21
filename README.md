@@ -1,6 +1,6 @@
 # HiQDev assets
 
-**HiQDev asset files: images, configs and more**
+**HiQDev assets: params, images and more**
 
 [![Latest Stable Version](https://poser.pugx.org/hiqdev/yii2-asset-hiqdev/v/stable)](https://packagist.org/packages/hiqdev/yii2-asset-hiqdev)
 [![Total Downloads](https://poser.pugx.org/hiqdev/yii2-asset-hiqdev/downloads)](https://packagist.org/packages/hiqdev/yii2-asset-hiqdev)
@@ -8,13 +8,15 @@
 [![Scrutinizer Code Coverage](https://img.shields.io/scrutinizer/coverage/g/hiqdev/yii2-asset-hiqdev.svg)](https://scrutinizer-ci.com/g/hiqdev/yii2-asset-hiqdev/)
 [![Scrutinizer Code Quality](https://img.shields.io/scrutinizer/g/hiqdev/yii2-asset-hiqdev.svg)](https://scrutinizer-ci.com/g/hiqdev/yii2-asset-hiqdev/)
 
-[HiQDev](https://hiqdev.com) is software development and computer consulting company.
+[HiQDev] is software development and consulting company.
 
 This package provides assets shareable between different HiQDev projects:
 
 - logos and css bundled with yii2 asset bundle
-- config settings
+- reusable params see [src/config/params.php]
 - translations
+
+[HiQDev]: https://hiqdev.com/
 
 ## Installation
 

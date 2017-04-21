@@ -1,7 +1,7 @@
 {
     "name": "hiqdev/yii2-asset-hiqdev",
     "type": "yii2-extension",
-    "description": "HiQDev asset files: images, configs and more",
+    "description": "HiQDev assets: params, images and more",
     "keywords": [
         "hiqdev",
         "asset",

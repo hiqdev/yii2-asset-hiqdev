@@ -1,16 +1,17 @@
 package:
     type:           yii2-extension
     name:           yii2-asset-hiqdev
-    title:          'HiQDev asset files: images, configs and more'
+    title:          'HiQDev assets: params, images and more'
     headline:       HiQDev assets
     keywords:       hiqdev, asset, extension, yii2
     namespace:      hiqdev\assets\hiqdev
     description:    |
-        [HiQDev](https://hiqdev.com) is software development and computer consulting company.
+        [HiQDev] is software development and consulting company.
 
         This package provides assets shareable between different HiQDev projects:
 
         - logos and css bundled with yii2 asset bundle
-        - config settings
+        - reusable params see [src/config/params.php]
         - translations
 
+        [HiQDev]: https://hiqdev.com/
