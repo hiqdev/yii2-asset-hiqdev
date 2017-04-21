@@ -13,10 +13,12 @@
 This package provides assets shareable between different HiQDev projects:
 
 - logos and css bundled with yii2 asset bundle
+- favicon.ico
 - reusable params see [src/config/params.php]
 - translations
 
 [HiQDev]: https://hiqdev.com/
+[src/config/params.php]: src/config/params.php
 
 ## Installation
 
