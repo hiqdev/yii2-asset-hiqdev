@@ -24,6 +24,6 @@ return [
     'socialLinks.links' => [
         'email'     => 'mailto:' . $supportEmail,
         'twitter'   => 'https://twitter.com/hipanel',
-        'facebook'  => 'https://www.facebook.com/groups/230254030432488/',
+        'facebook'  => 'https://www.facebook.com/hipanel',
     ],
 ];
